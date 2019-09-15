@@ -1,0 +1,16 @@
+body {
+    background: #000;
+}
+
+#container {
+    max-width: 1200px;
+    margin: auto;
+    height: 90vh;
+}
+
+#my-canvas {
+    background: #000;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+}
